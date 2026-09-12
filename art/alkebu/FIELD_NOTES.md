@@ -10,7 +10,7 @@ The shared study record is `browser/client/alkebuRegions.ts`. IDs, source passag
 
 ## Playable production status
 
-The `?view=world&area=...` journey now contains authored scenes for `red-sands`, `menaka`, `fangs`, `dragon-fang`, `flame-peaks` and `tanzane`, each with matching terrain/navigation data, a live character and persistent landmark discoveries. Ataluk remains playable through `?view=ataluk-play`. Local and public verification are distinct gates; the private source's evidence JSON records each tested URL and revision. The older review studies are not evidence of playable completion. See `PLAYABLE_ALKEBU_JOURNEY.md` and `WORLD_DEMO_ROADMAP.md` for scope and remaining work.
+The `?view=world&area=...` journey now contains authored scenes for `red-sands`, `menaka`, `fangs`, `dragon-fang`, `flame-peaks`, `tanzane` and `nuzai`, each with matching terrain/navigation data, a live character and persistent landmark discoveries. Ataluk remains playable through `?view=ataluk-play`. Local and public verification are distinct gates; the private source's evidence JSON records each tested URL and revision. The older review studies are not evidence of playable completion. See `PLAYABLE_ALKEBU_JOURNEY.md` and `WORLD_DEMO_ROADMAP.md` for scope and remaining work.
 
 ## Map reading
 
