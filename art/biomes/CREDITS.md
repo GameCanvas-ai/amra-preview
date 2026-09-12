@@ -2,7 +2,7 @@
 
 Sand, snow and sandstone: CC0 assets from Poly Haven, downloaded unchanged at 1K. This importer is powered by Poly Haven.
 
-- [sand_01](https://polyhaven.com/a/sand_01) — authors: Rob Tuytel
+- [red_sand](https://polyhaven.com/a/red_sand) — authors: Rohit Seervi
 - [snow_02](https://polyhaven.com/a/snow_02) — authors: Rob Tuytel
 - [sandstone_blocks_04](https://polyhaven.com/a/sandstone_blocks_04) — authors: Rob Tuytel
 
