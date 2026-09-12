@@ -1,0 +1,161 @@
+{
+  "camera": [
+    25.0,
+    -32.0,
+    31.0
+  ],
+  "target": [
+    0.0,
+    1.0,
+    1.0
+  ],
+  "width": 28,
+  "height": 21,
+  "near": 1,
+  "far": 100,
+  "spawn": [
+    -4,
+    -5
+  ],
+  "obstacles": [
+    {
+      "type": "wall",
+      "x": -8,
+      "y": 2,
+      "length": 11,
+      "angle": 1.5707963267948966,
+      "radius": 0.42
+    },
+    {
+      "type": "wall",
+      "x": 0,
+      "y": 7.5,
+      "length": 16,
+      "angle": 0,
+      "radius": 0.42
+    },
+    {
+      "type": "wall",
+      "x": 8,
+      "y": 4.5,
+      "length": 6,
+      "angle": 1.5707963267948966,
+      "radius": 0.42
+    },
+    {
+      "type": "ellipse",
+      "x": -2,
+      "y": 1,
+      "rx": 2.95,
+      "ry": 2.37
+    },
+    {
+      "type": "circle",
+      "x": -6,
+      "y": -1,
+      "radius": 0.44
+    },
+    {
+      "type": "circle",
+      "x": -5.6,
+      "y": 5.2,
+      "radius": 0.44
+    },
+    {
+      "type": "circle",
+      "x": 2.0,
+      "y": 5.5,
+      "radius": 0.44
+    },
+    {
+      "type": "circle",
+      "x": 6.8,
+      "y": -1.5,
+      "radius": 0.44
+    },
+    {
+      "type": "wall",
+      "x": 2.55,
+      "y": 5.8,
+      "length": 0.7,
+      "angle": 1.5707963267948966,
+      "radius": 0.5
+    },
+    {
+      "type": "wall",
+      "x": 5.8,
+      "y": 5.8,
+      "length": 0.7,
+      "angle": 1.5707963267948966,
+      "radius": 0.5
+    },
+    {
+      "type": "wall",
+      "x": 7.25,
+      "y": 5.8,
+      "length": 0.7,
+      "angle": 1.5707963267948966,
+      "radius": 0.5
+    },
+    {
+      "type": "wall",
+      "x": 5,
+      "y": 6,
+      "length": 5.4,
+      "angle": 0,
+      "radius": 0.5
+    },
+    {
+      "type": "wall",
+      "x": 7.2,
+      "y": 4.3,
+      "length": 3.9,
+      "angle": 1.5707963267948966,
+      "radius": 0.5
+    },
+    {
+      "type": "circle",
+      "x": 2.8,
+      "y": 2.65,
+      "radius": 0.23
+    },
+    {
+      "type": "circle",
+      "x": 2.8,
+      "y": 5.75,
+      "radius": 0.23
+    },
+    {
+      "type": "circle",
+      "x": 6.8,
+      "y": 2.65,
+      "radius": 0.23
+    },
+    {
+      "type": "circle",
+      "x": 6.8,
+      "y": 5.75,
+      "radius": 0.23
+    },
+    {
+      "type": "wall",
+      "x": 4.5,
+      "y": 5.45,
+      "length": 2.5,
+      "angle": 0,
+      "radius": 0.5
+    },
+    {
+      "type": "circle",
+      "x": 3.0,
+      "y": 4.85,
+      "radius": 0.56
+    },
+    {
+      "type": "circle",
+      "x": 5.8,
+      "y": 4.8,
+      "radius": 0.52
+    }
+  ]
+}

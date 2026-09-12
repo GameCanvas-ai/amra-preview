@@ -8,6 +8,10 @@ Primary text: repository-root `docs/lore/8_gazetteer/alkebu.md`. Primary visual:
 
 The shared study record is `browser/client/alkebuRegions.ts`. IDs, source passages, map anchors, direct lore facts, visual proposals, exclusions and water notes are used by the review UI. Full implementation should extend those records rather than creating another disconnected palette list. `art/pipeline/profiles/alkebu.json` is an older derived profile; its single oasis default does not describe all these areas.
 
+## Playable production status
+
+The separate `?view=world&area=red-sands` and `?view=world&area=menaka` routes now use authored Blender scenery, matching terrain/navigation data, live characters and persistent landmark discoveries. Local browser verification covers both. Public publication remains a separate gate. The older review studies are not evidence of playable completion. See `PLAYABLE_ALKEBU_JOURNEY.md` and `WORLD_DEMO_ROADMAP.md` for the current scope and gaps.
+
 ## Map reading
 
 - **Northwestern Alkebu:** the Red Sands lie south of the Peaks of the Draken. This red desert is not the whole southern peninsula.
