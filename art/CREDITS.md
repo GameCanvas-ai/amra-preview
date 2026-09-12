@@ -13,3 +13,7 @@ Amra adaptations: seven race silhouettes, elf ears, Dragonblood head/horns and m
 Paving texture: OpenAI image generation, created for the earlier Amra browser prototype. No existing game art was used as source imagery. Interface, quay layout and lighting authored for this project.
 
 The live multiplayer renderer and `/art-review` share these assets. Textures are resized to at most 512 pixels, and animation libraries are trimmed to used clips; original imports can be reproduced using the scripts directory. Only CC0 assets were downloaded; no purchases or Mixamo content were used.
+
+## Catacombs
+
+The playable catacombs use Flare's pre-rendered dungeon scenery. See [dungeon/CREDITS.md](dungeon/CREDITS.md) for authors, source revision, modification notes and CC BY-SA licensing.
