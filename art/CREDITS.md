@@ -25,3 +25,7 @@ The playable city now uses CC0 Poly Haven surface materials for paving, plaster,
 ## Ishanlar Wood
 
 The playable woodland uses CC0 scanned bark, rock and forest-floor materials with authored broadleaf trees, paths and clearings. See [forest/CREDITS.md](forest/CREDITS.md) for source authors and reproducible downloads.
+
+## Regional biome studies
+
+The six-region art spike uses additional CC0 materials. See [biome credits](biomes/CREDITS.md).

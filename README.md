@@ -6,4 +6,6 @@ Play without an account. Progress is stored in your browser on this device; clea
 
 The playable catacombs now use textured isometric stonework and animated skeletal guardians. From Castela, open Map and choose “To the catacombs”. Castela now uses worn cobblestones, weathered plaster and timber, clay roofs, leafy vegetation and textured stone landmarks. Ishanlar Wood now uses textured forest ground, bark-covered trees and authored resource/story clearings. Use Map → To Ishanlar Wood in Castela, or open `?view=forest` for the art walkthrough. Hero and outfit art remain in development.
 
-This repository contains built deployment files. Third-party art credits and licenses are included under `art/` and `dungeon/`.
+This repository contains built deployment files. Third-party art credits and licenses are included under `art/`.
+
+The approved environment direction is the textured, gritty isometric presentation of Castela and Ishanlar Wood. Superseded art studies have been removed. Explore six regional environment spikes at `?view=biomes`: Alkebu, Dhon Kopjar, Yamato, Manajur, Banlaya and Skapta. These are art studies, not playable zones.
