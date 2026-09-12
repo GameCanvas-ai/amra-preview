@@ -1,0 +1,269 @@
+{
+  "author": "Quaternius",
+  "license": "CC0 1.0",
+  "edition": "Standard / free",
+  "imports": [
+    {
+      "file": "characters/Superhero_Female_FullBody.gltf",
+      "source": "Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Female_FullBody.gltf"
+    },
+    {
+      "file": "characters/Superhero_Male_FullBody.gltf",
+      "source": "Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Male_FullBody.gltf"
+    },
+    {
+      "file": "characters/Hair_Beard.gltf",
+      "source": "Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Beard.gltf"
+    },
+    {
+      "file": "characters/Hair_Long.gltf",
+      "source": "Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Long.gltf"
+    },
+    {
+      "file": "characters/Hair_SimpleParted.gltf",
+      "source": "Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_SimpleParted.gltf"
+    },
+    {
+      "file": "outfits/Female_Peasant.gltf",
+      "source": "Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Female_Peasant.gltf"
+    },
+    {
+      "file": "outfits/Female_Ranger.gltf",
+      "source": "Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Female_Ranger.gltf"
+    },
+    {
+      "file": "outfits/Male_Peasant.gltf",
+      "source": "Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Male_Peasant.gltf"
+    },
+    {
+      "file": "outfits/Male_Ranger.gltf",
+      "source": "Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Male_Ranger.gltf"
+    },
+    {
+      "file": "village/Prop_Crate.gltf",
+      "source": "Medieval Village MegaKit[Standard]/glTF/Prop_Crate.gltf"
+    },
+    {
+      "file": "village/Prop_Vine4.gltf",
+      "source": "Medieval Village MegaKit[Standard]/glTF/Prop_Vine4.gltf"
+    },
+    {
+      "file": "village/Prop_Wagon.gltf",
+      "source": "Medieval Village MegaKit[Standard]/glTF/Prop_Wagon.gltf"
+    },
+    {
+      "file": "village/Prop_WoodenFence_Single.gltf",
+      "source": "Medieval Village MegaKit[Standard]/glTF/Prop_WoodenFence_Single.gltf"
+    },
+    {
+      "file": "village/Roof_Front_Brick4.gltf",
+      "source": "Medieval Village MegaKit[Standard]/glTF/Roof_Front_Brick4.gltf"
+    },
+    {
+      "file": "village/Roof_RoundTiles_4x4.gltf",
+      "source": "Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_4x4.gltf"
+    },
+    {
+      "file": "village/Wall_Plaster_Door_Round.gltf",
+      "source": "Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Door_Round.gltf"
+    },
+    {
+      "file": "village/Wall_Plaster_Straight.gltf",
+      "source": "Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Straight.gltf"
+    },
+    {
+      "file": "village/Wall_Plaster_Window_Wide_Flat.gltf",
+      "source": "Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Window_Wide_Flat.gltf"
+    },
+    {
+      "file": "props/Anvil.gltf",
+      "source": "Exports/glTF/Anvil.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Anvil_Log.gltf",
+      "source": "Exports/glTF/Anvil_Log.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Barrel.gltf",
+      "source": "Exports/glTF/Barrel.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Bed_Twin1.gltf",
+      "source": "Exports/glTF/Bed_Twin1.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Bench.gltf",
+      "source": "Exports/glTF/Bench.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Bookcase_2.gltf",
+      "source": "Exports/glTF/Bookcase_2.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/BookGroup_Medium_1.gltf",
+      "source": "Exports/glTF/BookGroup_Medium_1.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/BookStand.gltf",
+      "source": "Exports/glTF/BookStand.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Book_Stack_1.gltf",
+      "source": "Exports/glTF/Book_Stack_1.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Bottle_1.gltf",
+      "source": "Exports/glTF/Bottle_1.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/CandleStick_Triple.gltf",
+      "source": "Exports/glTF/CandleStick_Triple.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Chair_1.gltf",
+      "source": "Exports/glTF/Chair_1.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Chest_Wood.gltf",
+      "source": "Exports/glTF/Chest_Wood.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Dummy.gltf",
+      "source": "Exports/glTF/Dummy.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/FarmCrate_Apple.gltf",
+      "source": "Exports/glTF/FarmCrate_Apple.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/FarmCrate_Carrot.gltf",
+      "source": "Exports/glTF/FarmCrate_Carrot.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Lantern_Wall.gltf",
+      "source": "Exports/glTF/Lantern_Wall.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Mug.gltf",
+      "source": "Exports/glTF/Mug.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Pickaxe_Bronze.gltf",
+      "source": "Exports/glTF/Pickaxe_Bronze.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Potion_1.gltf",
+      "source": "Exports/glTF/Potion_1.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Pot_1.gltf",
+      "source": "Exports/glTF/Pot_1.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Rope_1.gltf",
+      "source": "Exports/glTF/Rope_1.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Scroll_1.gltf",
+      "source": "Exports/glTF/Scroll_1.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Shelf_Small_Bottles.gltf",
+      "source": "Exports/glTF/Shelf_Small_Bottles.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Stool.gltf",
+      "source": "Exports/glTF/Stool.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Table_Large.gltf",
+      "source": "Exports/glTF/Table_Large.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Table_Plate.gltf",
+      "source": "Exports/glTF/Table_Plate.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/WeaponStand.gltf",
+      "source": "Exports/glTF/WeaponStand.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Whetstone.gltf",
+      "source": "Exports/glTF/Whetstone.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    },
+    {
+      "file": "props/Workbench.gltf",
+      "source": "Exports/glTF/Workbench.gltf",
+      "archive": "amra-fantasy-props-megakit.zip",
+      "sourceUrl": "https://quaternius.itch.io/fantasy-props-megakit"
+    }
+  ],
+  "adaptations": {
+    "peoples": 7,
+    "textureMaxPixels": 512,
+    "textureEncoding": "PNG",
+    "animationClips": "Only used clips and required track buffers retained",
+    "scripts": [
+      "scripts/optimize-art.py",
+      "scripts/optimize-animations.py"
+    ]
+  }
+}
