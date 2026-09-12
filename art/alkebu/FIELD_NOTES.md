@@ -45,7 +45,7 @@ The shared study record is `browser/client/alkebuRegions.ts`. IDs, source passag
 
 **Canon:** productive plain; fruit and vegetable cultivation, livestock, wool/silk textiles and a trading bazaar.
 
-**Proposal:** rich soil in beds, orchard margins, channels and a sluice, field shelter and simple crossing. Crops are generic visual placeholders, not canon species or a production economy. Green follows cultivation and water. Avoid transforming farmland into wild jungle or putting continuous red dunes through it.
+**Revision 2 — static art target:** the blocky procedural scene was rejected. The review now displays a generated environment plate with irregular cultivated plots, orchard margins, a worn cart track, bridge, sluice and farmstead. Building design, plant species, clothing and exact water layout are proposals, not canon. Green follows cultivation and water. Avoid transforming farmland into wild jungle or putting continuous red dunes through it. This is not a playable environment upgrade; layered assets, collision and animation remain to be built. Full contract and production translation: `ATALUK_ART_TARGET.md` (source repository).
 
 **Gameplay planning:** route through field margins; separate owned crops, harvestable resources, livestock and decoration. Require catchment/intake review before connecting channels to a named river.
 
