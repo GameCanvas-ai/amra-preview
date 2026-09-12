@@ -1,0 +1,135 @@
+{
+  "camera": [
+    25.0,
+    -32.0,
+    31.0
+  ],
+  "target": [
+    0.0,
+    1.0,
+    1.0
+  ],
+  "width": 28,
+  "height": 21,
+  "near": 1,
+  "far": 100,
+  "spawn": [
+    2.4,
+    -6
+  ],
+  "obstacles": [
+    {
+      "type": "ellipse",
+      "x": 0.6,
+      "y": 1.4,
+      "rx": 2.12,
+      "ry": 4.95
+    },
+    {
+      "type": "circle",
+      "x": -1.4,
+      "y": -1.5,
+      "radius": 0.48
+    },
+    {
+      "type": "circle",
+      "x": 2.6,
+      "y": -1.5,
+      "radius": 0.48
+    },
+    {
+      "type": "circle",
+      "x": -1.4,
+      "y": 0.45,
+      "radius": 0.48
+    },
+    {
+      "type": "circle",
+      "x": 2.6,
+      "y": 0.45,
+      "radius": 0.48
+    },
+    {
+      "type": "circle",
+      "x": -1.4,
+      "y": 2.55,
+      "radius": 0.48
+    },
+    {
+      "type": "circle",
+      "x": 2.6,
+      "y": 2.55,
+      "radius": 0.48
+    },
+    {
+      "type": "circle",
+      "x": -1.4,
+      "y": 4.35,
+      "radius": 0.48
+    },
+    {
+      "type": "circle",
+      "x": 2.6,
+      "y": 4.35,
+      "radius": 0.48
+    },
+    {
+      "type": "circle",
+      "x": 4.0,
+      "y": 2.3,
+      "radius": 0.3
+    },
+    {
+      "type": "circle",
+      "x": 4.0,
+      "y": 6.3,
+      "radius": 0.3
+    },
+    {
+      "type": "circle",
+      "x": 8.4,
+      "y": 2.3,
+      "radius": 0.3
+    },
+    {
+      "type": "circle",
+      "x": 8.4,
+      "y": 6.3,
+      "radius": 0.3
+    },
+    {
+      "type": "box",
+      "x": 6.05,
+      "y": 4.65,
+      "rx": 1.8,
+      "ry": 1.35
+    },
+    {
+      "type": "box",
+      "x": 4.1,
+      "y": -0.45,
+      "rx": 0.75,
+      "ry": 1.9
+    },
+    {
+      "type": "circle",
+      "x": 9,
+      "y": 7,
+      "radius": 0.38
+    },
+    {
+      "type": "circle",
+      "x": 9,
+      "y": -3.8,
+      "radius": 0.38
+    },
+    {
+      "type": "circle",
+      "x": -0.8,
+      "y": 8.6,
+      "radius": 0.38
+    }
+  ],
+  "cutaway": false,
+  "waterfall": false
+}

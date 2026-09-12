@@ -10,7 +10,7 @@ The shared study record is `browser/client/alkebuRegions.ts`. IDs, source passag
 
 ## Playable production status
 
-The `?view=world&area=...` journey now contains authored scenes for `red-sands`, `menaka`, `fangs`, `dragon-fang` and `flame-peaks`, each with matching terrain/navigation data, a live character and persistent landmark discoveries. Ataluk remains playable through `?view=ataluk-play`. Local and public verification are distinct gates; the private source's evidence JSON records each tested URL and revision. The older review studies are not evidence of playable completion. See `PLAYABLE_ALKEBU_JOURNEY.md` and `WORLD_DEMO_ROADMAP.md` for scope and remaining work.
+The `?view=world&area=...` journey now contains authored scenes for `red-sands`, `menaka`, `fangs`, `dragon-fang`, `flame-peaks` and `tanzane`, each with matching terrain/navigation data, a live character and persistent landmark discoveries. Ataluk remains playable through `?view=ataluk-play`. Local and public verification are distinct gates; the private source's evidence JSON records each tested URL and revision. The older review studies are not evidence of playable completion. See `PLAYABLE_ALKEBU_JOURNEY.md` and `WORLD_DEMO_ROADMAP.md` for scope and remaining work.
 
 ## Map reading
 
@@ -94,6 +94,8 @@ The `?view=world&area=...` journey now contains authored scenes for `red-sands`,
 **Gameplay planning:** pier heights, shore collision, embark points and water boundary must agree. Keep trade dressing distinct from loot. Do not relocate this study to Cerenan to sidestep its unresolved location.
 
 ## Other Alkebu places retained for later implementation
+
+The complete settlement/site audit and production sequence now live in `ALKEBU_LOCALITY_PLAN.md`, including Raha, Nuzai, Masait and Dimnara, which the initial seven studies did not cover. That plan preserves map-only sites and unresolved conflicts rather than treating the initial study set as the full region.
 
 - **Anathol:** urban port/capital treatment, not a biome synonym. White marble, murals/mosaics, Great Citadel of Tarses, fortified port and markets need a dedicated city plan (301–323).
 - **Dadu:** dry oasis-town construction explicitly includes stone and adobe, narrow streets and weekly markets (343–365). It should not inherit Anathol's monumental marble everywhere.
