@@ -29,3 +29,7 @@ The playable woodland uses CC0 scanned bark, rock and forest-floor materials wit
 ## Regional biome studies
 
 The six-region art spike uses additional CC0 materials. See [biome credits](biomes/CREDITS.md).
+
+## Alkebu field studies
+
+The unchanged Amra map and site-specific study provenance are documented in [Alkebu credits](alkebu/CREDITS.md).

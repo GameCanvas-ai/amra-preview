@@ -9,3 +9,5 @@ The playable catacombs now use textured isometric stonework and animated skeleta
 This repository contains built deployment files. Third-party art credits and licenses are included under `art/`.
 
 The approved environment direction is the textured, gritty isometric presentation of Castela and Ishanlar Wood. Superseded art studies have been removed. Explore six regional environment spikes at `?view=biomes`: Alkebu, Dhon Kopjar, Yamato, Manajur, Banlaya and Skapta. These are art studies, not playable zones.
+
+Alkebu field studies: `?view=alkebu`. Seven distinct location treatments include the Red Sands, Menaka oasis, Ataluk fields, Fang Forest, Dragon Fang ravine, Flame Peaks approach and Port Tanzane shore. Each includes the original Amra map with an approximate anchor, direct lore facts, art proposals and consistent implementation notes. These are visual studies, not playable regions. Other world-region experiments remain awaiting lore revision.
