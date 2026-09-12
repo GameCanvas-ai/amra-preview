@@ -1,0 +1,65 @@
+{
+  "floor": {
+    "asset": "forest_leaves_02",
+    "source": "https://polyhaven.com/a/forest_leaves_02",
+    "maps": {
+      "color": {
+        "size": 437891,
+        "md5": "13e9bfac07cb72ca143e153cc2f589a8",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_leaves_02/forest_leaves_02_diffuse_1k.jpg"
+      },
+      "normal": {
+        "size": 577163,
+        "md5": "72002432222467c74cd9980cbddb25a4",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_leaves_02/forest_leaves_02_nor_gl_1k.jpg"
+      },
+      "roughness": {
+        "size": 192523,
+        "md5": "578e637510d8fdd7acf97afc6f329e9d",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_leaves_02/forest_leaves_02_rough_1k.jpg"
+      }
+    }
+  },
+  "bark": {
+    "asset": "bark_brown_02",
+    "source": "https://polyhaven.com/a/bark_brown_02",
+    "maps": {
+      "color": {
+        "size": 659592,
+        "md5": "6669cca520594bdca19f94084984ab72",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_brown_02/bark_brown_02_diff_1k.jpg"
+      },
+      "normal": {
+        "size": 1015623,
+        "md5": "1cad3fe0349a44df2d4d1c2859c79920",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_brown_02/bark_brown_02_nor_gl_1k.jpg"
+      },
+      "roughness": {
+        "size": 337946,
+        "md5": "bbcde696e5b9418cdcb2abe638965417",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_brown_02/bark_brown_02_rough_1k.jpg"
+      }
+    }
+  },
+  "rock": {
+    "asset": "rock_face",
+    "source": "https://polyhaven.com/a/rock_face",
+    "maps": {
+      "color": {
+        "size": 732721,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face/rock_face_diff_1k.jpg",
+        "md5": "220c637db6056b45e7c0a17e6ed8514e"
+      },
+      "normal": {
+        "size": 1139857,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face/rock_face_nor_gl_1k.jpg",
+        "md5": "0d244b69a346db78f06c7b76510bb640"
+      },
+      "roughness": {
+        "size": 224371,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face/rock_face_rough_1k.jpg",
+        "md5": "9c0ebb95db6ce5ec16abca0899e506a2"
+      }
+    }
+  }
+}

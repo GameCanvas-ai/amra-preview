@@ -21,3 +21,7 @@ The playable catacombs use Flare's pre-rendered dungeon scenery. See [dungeon/CR
 ## Castela material migration
 
 The playable city now uses CC0 Poly Haven surface materials for paving, plaster, roof tiles, timber, soil and masonry. See [castela/CREDITS.md](castela/CREDITS.md) for authors, licensing and reproducible sources.
+
+## Ishanlar Wood
+
+The playable woodland uses CC0 scanned bark, rock and forest-floor materials with authored broadleaf trees, paths and clearings. See [forest/CREDITS.md](forest/CREDITS.md) for source authors and reproducible downloads.
