@@ -17,3 +17,7 @@ The live multiplayer renderer and `/art-review` share these assets. Textures are
 ## Catacombs
 
 The playable catacombs use Flare's pre-rendered dungeon scenery. See [dungeon/CREDITS.md](dungeon/CREDITS.md) for authors, source revision, modification notes and CC BY-SA licensing.
+
+## Castela material migration
+
+The playable city now uses CC0 Poly Haven surface materials for paving, plaster, roof tiles, timber, soil and masonry. See [castela/CREDITS.md](castela/CREDITS.md) for authors, licensing and reproducible sources.
