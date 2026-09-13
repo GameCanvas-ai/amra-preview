@@ -1,0 +1,28 @@
+{
+  "camera": [
+    23.0,
+    -30.0,
+    33.0
+  ],
+  "target": [
+    0.0,
+    1.0,
+    0.6000000238418579
+  ],
+  "width": 26.0,
+  "height": 17.333333333333332,
+  "near": 1,
+  "far": 100,
+  "spawn": [
+    -0.4,
+    -7
+  ],
+  "obstacles": [],
+  "cutaway": false,
+  "waterfall": false,
+  "lighting": {
+    "mode": "winter",
+    "lamps": []
+  },
+  "frozenWater": true
+}

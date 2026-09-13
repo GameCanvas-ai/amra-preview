@@ -1,0 +1,15 @@
+{
+  "door_clearance": {
+    "entrance": true,
+    "hall": true,
+    "kitchen": true,
+    "bedroom": true,
+    "mending": true,
+    "kitchen-door": true,
+    "bedroom-door": true,
+    "mending-door": true
+  },
+  "collision": "evaluated mesh BVH, five 1.55m vertical clearance probes with 0.18m offsets",
+  "concept_projection": false,
+  "mesh_objects": 1868
+}

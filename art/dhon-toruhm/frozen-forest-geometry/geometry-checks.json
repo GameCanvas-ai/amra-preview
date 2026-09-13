@@ -1,0 +1,11 @@
+{
+  "clearance": {
+    "Forest trail": true,
+    "Creek crossing": true,
+    "Rime clearing": true,
+    "Upper trail": true,
+    "spawn": true
+  },
+  "collision": "evaluated mesh BVH; sampled vertical clearance",
+  "concept_projection": false
+}

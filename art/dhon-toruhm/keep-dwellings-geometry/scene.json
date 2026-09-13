@@ -1,0 +1,109 @@
+{
+  "camera": [
+    23.0,
+    -30.0,
+    38.0
+  ],
+  "target": [
+    0.0,
+    -0.6000000238418579,
+    0.699999988079071
+  ],
+  "width": 21.799999237060547,
+  "height": 14.533332824707031,
+  "near": 1,
+  "far": 100,
+  "spawn": [
+    -5,
+    -7.5
+  ],
+  "obstacles": [],
+  "cutaway": false,
+  "waterfall": false,
+  "lighting": {
+    "mode": "dusk",
+    "lamps": [
+      {
+        "position": [
+          -4.65,
+          4.449999999999999,
+          0.9
+        ],
+        "intensity": 16,
+        "distance": 6
+      },
+      {
+        "position": [
+          -6.8,
+          -0.8,
+          2.3600000000000003
+        ],
+        "intensity": 9,
+        "distance": 4.8
+      },
+      {
+        "position": [
+          -1.6,
+          4.8,
+          2.3600000000000003
+        ],
+        "intensity": 9,
+        "distance": 4.8
+      },
+      {
+        "position": [
+          2.65,
+          4.8,
+          2.3600000000000003
+        ],
+        "intensity": 9,
+        "distance": 4.8
+      },
+      {
+        "position": [
+          6.65,
+          -1.5,
+          2.3600000000000003
+        ],
+        "intensity": 9,
+        "distance": 4.8
+      },
+      {
+        "position": [
+          1.55,
+          -2.4,
+          2.26
+        ],
+        "intensity": 9,
+        "distance": 4.8
+      },
+      {
+        "position": [
+          -3.15,
+          -2.4,
+          2.26
+        ],
+        "intensity": 9,
+        "distance": 4.8
+      },
+      {
+        "position": [
+          -4.7,
+          0.86,
+          1.51
+        ],
+        "intensity": 2.5,
+        "distance": 2.4
+      },
+      {
+        "position": [
+          -4.5,
+          3.8,
+          1.65
+        ],
+        "intensity": 13,
+        "distance": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "clearance": {
+    "Mine approach": true,
+    "Ore landing": true,
+    "Guarded workings": true,
+    "spawn": true
+  },
+  "collision": "evaluated mesh BVH; sampled vertical clearance",
+  "concept_projection": false
+}

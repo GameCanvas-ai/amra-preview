@@ -1,0 +1,45 @@
+{
+  "spawn": [
+    -0.7,
+    -7
+  ],
+  "stops": [
+    {
+      "name": "Mine approach",
+      "position": [
+        -0.7,
+        -6.5
+      ]
+    },
+    {
+      "name": "Ore landing",
+      "position": [
+        -1.5,
+        0.1
+      ]
+    },
+    {
+      "name": "Guarded workings",
+      "position": [
+        0,
+        5.3
+      ]
+    }
+  ],
+  "residents": [
+    [
+      2.3,
+      1.5
+    ]
+  ],
+  "blocked": [
+    [
+      4,
+      2
+    ],
+    [
+      1.5,
+      2.9
+    ]
+  ]
+}

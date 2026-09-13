@@ -1,0 +1,10 @@
+{
+  "clearance": {
+    "Supply approach": true,
+    "Bridge watch": true,
+    "Iron gate": true,
+    "spawn": true
+  },
+  "collision": "evaluated mesh BVH; sampled vertical clearance",
+  "concept_projection": false
+}

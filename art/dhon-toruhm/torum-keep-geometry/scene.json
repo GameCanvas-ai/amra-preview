@@ -1,0 +1,47 @@
+{
+  "camera": [
+    23.0,
+    -30.0,
+    33.0
+  ],
+  "target": [
+    0.0,
+    1.0,
+    0.6000000238418579
+  ],
+  "width": 26.0,
+  "height": 17.333333333333332,
+  "near": 1,
+  "far": 100,
+  "spawn": [
+    0,
+    -7
+  ],
+  "obstacles": [],
+  "cutaway": false,
+  "waterfall": false,
+  "lighting": {
+    "mode": "winter",
+    "lamps": [
+      {
+        "position": [
+          -2.5,
+          3.05,
+          2.5451392829077584
+        ],
+        "intensity": 9,
+        "distance": 5
+      },
+      {
+        "position": [
+          2.5,
+          3.05,
+          2.542247636532297
+        ],
+        "intensity": 9,
+        "distance": 5
+      }
+    ]
+  },
+  "frozenWater": true
+}

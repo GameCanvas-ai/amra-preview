@@ -1,0 +1,11 @@
+{
+  "clearance": {
+    "Southern trail": true,
+    "Wind-scoured hollow": true,
+    "Frozen pools": true,
+    "Northern rise": true,
+    "spawn": true
+  },
+  "collision": "evaluated mesh BVH; sampled vertical clearance",
+  "concept_projection": false
+}

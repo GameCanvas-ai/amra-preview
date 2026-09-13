@@ -1,0 +1,47 @@
+{
+  "spawn": [
+    -2,
+    -7
+  ],
+  "stops": [
+    {
+      "name": "Southern trail",
+      "position": [
+        -2,
+        -6.8
+      ]
+    },
+    {
+      "name": "Wind-scoured hollow",
+      "position": [
+        -4,
+        -1.7
+      ]
+    },
+    {
+      "name": "Frozen pools",
+      "position": [
+        -0.2,
+        1.4
+      ]
+    },
+    {
+      "name": "Northern rise",
+      "position": [
+        1,
+        6.8
+      ]
+    }
+  ],
+  "residents": [],
+  "blocked": [
+    [
+      4,
+      0.5
+    ],
+    [
+      5,
+      1
+    ]
+  ]
+}

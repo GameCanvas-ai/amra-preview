@@ -1,0 +1,47 @@
+{
+  "spawn": [
+    -0.4,
+    -7
+  ],
+  "stops": [
+    {
+      "name": "Forest trail",
+      "position": [
+        -0.4,
+        -6.7
+      ]
+    },
+    {
+      "name": "Creek crossing",
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Rime clearing",
+      "position": [
+        2.1,
+        3.5
+      ]
+    },
+    {
+      "name": "Upper trail",
+      "position": [
+        0.2,
+        7
+      ]
+    }
+  ],
+  "residents": [],
+  "blocked": [
+    [
+      4,
+      0
+    ],
+    [
+      -3,
+      0
+    ]
+  ]
+}
