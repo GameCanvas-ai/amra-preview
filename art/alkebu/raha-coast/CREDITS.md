@@ -1,0 +1,9 @@
+# Raha painted gate and fishing shore — work in progress
+
+Original Blender-authored geometry in `browser/scripts/render-raha-coast.py`: battered painted gate piers, solid fitted arch wedges, raised geometric relief, curving thick flanking walls, open carved timber leaves, small lofted fishing hull with real planking and ribs, individually strung net, rope coil, paddle and continuous beach/seabed. These are local proposals based on Raha’s ornate colorful architecture, fishing and white-sand bay in `docs/lore/8_gazetteer/alkebu.md:393–425`. No real-world sacred symbols or canonical clan emblems are represented.
+
+Existing CC0 sand material is credited in `../../biomes/CREDITS.md`, timber in `../../castela/CREDITS.md`, stone in `../../forest/CREDITS.md`. Mineral paint, water and cord colors are original procedural materials; the hull uses the existing credited CC0 timber texture. Shared authoring utilities may pack other existing credited textures. Character assets retain the credits in `../../CREDITS.md`.
+
+Reproduce from browser: `AMRA_BIOME=raha-coast blender -b --factory-startup -t 8 --python scripts/render-raha-coast.py`, then `python3 scripts/prepare-ataluk.py raha-coast`. Editable source scene: `browser/docs/art/raha-coast.blend`. The shell-craft counter has a real arched recess and curved necklace beads. Coastal palms use the established authored trunk/rachis/leaflet construction from `render-tanzane.py`. The boat is shore scenery and cannot be sailed. Fishing, trade, guild interaction and the complete city remain future work.
+
+The shell frontage now extends into a complete local craft house with thick walls, a shallow solid barrel vault, closed curved gables, actual ventilation slots, a recessed timber side door and tapered buttresses. Its construction and mineral paint colors are original local proposals. One anonymous idle shore worker uses the existing credited character assets; this does not enable dialogue, net repair or trade.

@@ -10,7 +10,7 @@ The shared study record is `browser/client/alkebuRegions.ts`. IDs, source passag
 
 ## Playable production status
 
-The `?view=world&area=...` journey contains authored scenes for `red-sands`, `menaka`, `fangs`, `dragon-fang`, `flame-peaks`, `tanzane`, `nuzai`, `dimnara`, `dadu` and the work-in-progress `kupa`, `anathol` and `raha-vineyard`, each with matching terrain/navigation data, a live character and persistent landmark discoveries. Ataluk remains playable through `?view=ataluk-play`. Local and public verification are distinct gates; the private source's evidence JSON records each tested URL and revision. The older review studies are not evidence of playable completion. See `PLAYABLE_ALKEBU_JOURNEY.md` and `WORLD_DEMO_ROADMAP.md` for scope and remaining work.
+The `?view=world&area=...` journey contains authored scenes for `red-sands`, `menaka`, `fangs`, `dragon-fang`, `flame-peaks`, `tanzane`, `nuzai`, `dimnara`, `dadu` and the work-in-progress `kupa`, `anathol`, `raha-vineyard` and `raha-coast`, each with matching terrain/navigation data, a live character and persistent landmark discoveries. Ataluk remains playable through `?view=ataluk-play`. Local and public verification are distinct gates; the private source's evidence JSON records each tested URL and revision. The older review studies are not evidence of playable completion. See `PLAYABLE_ALKEBU_JOURNEY.md` and `WORLD_DEMO_ROADMAP.md` for scope and remaining work.
 
 ## Map reading
 
@@ -131,3 +131,5 @@ All studies use the fixed isometric camera and existing material/leaf assets. La
 For the next production pass, choose a named locality, use the shared record above, then resolve only the map issues that affect that locality. Do not move to the next world region until Alkebu's reviewed treatments and their limitations are carried forward.
 
 Raha vineyard: lore and original-map review are recorded in `RAHA_PRODUCTION.md`. Cultivation, wine production and basket weaving are explicit; the training system, implements and parcel layout are local proposals. The colorful coastal gate and fishing bay remain separate work. No crop harvesting or trade is enabled by the exploration scene.
+
+Raha coast: the painted open gate, vaulted craft house, shell counter, net frame and small fishing hull are a local shore layout grounded in the same Raha passages. Exact building construction, vessel type and street positions are proposals. The anonymous shore worker idles; dialogue, net repair, fishing and trade are not implemented by this slice.
