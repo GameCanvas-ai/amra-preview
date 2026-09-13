@@ -10,7 +10,7 @@ The shared study record is `browser/client/alkebuRegions.ts`. IDs, source passag
 
 ## Playable production status
 
-The `?view=world&area=...` journey now contains authored scenes for `red-sands`, `menaka`, `fangs`, `dragon-fang`, `flame-peaks`, `tanzane` and `nuzai`, each with matching terrain/navigation data, a live character and persistent landmark discoveries. Ataluk remains playable through `?view=ataluk-play`. Local and public verification are distinct gates; the private source's evidence JSON records each tested URL and revision. The older review studies are not evidence of playable completion. See `PLAYABLE_ALKEBU_JOURNEY.md` and `WORLD_DEMO_ROADMAP.md` for scope and remaining work.
+The `?view=world&area=...` journey contains authored scenes for `red-sands`, `menaka`, `fangs`, `dragon-fang`, `flame-peaks`, `tanzane`, `nuzai`, `dimnara` and `dadu`, each with matching terrain/navigation data, a live character and persistent landmark discoveries. Ataluk remains playable through `?view=ataluk-play`. Local and public verification are distinct gates; the private source's evidence JSON records each tested URL and revision. The older review studies are not evidence of playable completion. See `PLAYABLE_ALKEBU_JOURNEY.md` and `WORLD_DEMO_ROADMAP.md` for scope and remaining work.
 
 ## Map reading
 
@@ -20,6 +20,7 @@ The `?view=world&area=...` journey now contains authored scenes for `red-sands`,
 - **East of Anathol:** Flame Peaks have a distinct map label and a drawn crater. They are separate from the Dragon Fang range in this reference. A crater does not require every approach scene to have flowing lava.
 - **Southern/southeastern peninsula:** Dragon Fang Mountains extend toward the Dimnara–Cerenan–Kupa area; forests, slopes and drainage break up the terrain.
 - **Southwest coast:** Port Tazane/Tanzane provides a supported maritime anchor. Jungles of Zaira and Port Zahir are across the water on the map; they are not silently included in this Alkebu study set.
+- **Dadu:** the original map places its symbol beside the southern Bay of Flames shore, north of the Flame Peaks; its gazetteer describes an oasis surrounded by dunes. The market lane follows the dry stone/adobe settlement treatment without inventing a port or exact shore/dune distances. Its sand is not assigned the separate Red Sands' magical origin.
 
 ## Landscape contracts
 
