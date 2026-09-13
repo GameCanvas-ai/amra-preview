@@ -9,3 +9,11 @@ Marble, bronze, diffuser and fabric materials are procedural. Timber uses the Po
 Editable source: `browser/scripts/anathol_architecture.py`, `render-anathol-study.py`, `review-anathol-night.py` and `browser/docs/art/anathol-study.blend`. From `browser`, reproduce with `AMRA_BIOME=anathol blender -b --factory-startup -t 8 --python scripts/render-anathol-study.py`.
 
 Review PNGs are isolated construction views. The neutral floor is studio equipment, not game terrain. Compositing is disconnected and no scenery, depth, motion or walkable-grid passes are exported by this study. A future full scene must generate and verify those together.
+
+## Local market passage under development
+
+`render-anathol.py` and `docs/art/anathol.blend` assemble an original paved passage, enclosed market house, shuttered windows, textile and jewelry counters, and supported lantern posts. Paving also uses the CC0 rock material credited in `../../forest/CREDITS.md`; other existing material credits above apply. The closed building, individual layout and merchandise arrangements are proposals, not a complete capital or implemented trade system.
+
+The full-scene authoring script exports aligned color/depth/motion passes, terrain and obstacles; `prepare-ataluk.py anathol` creates the runtime JPEG and packed depth. Optional dusk/lamp metadata accompanies the bake so the live actor can use regional lighting. This passage remains a work in progress. The separately published construction-review images are not proof of gameplay completion.
+
+The passage also includes original curved spice-vault masonry, reed baskets, spice heaps and expanded street paving. A separately baked canopy cutaway preserves nearby character visibility. Three idle residents use the existing character assets credited in `../../CREDITS.md`; their anonymous roles and placements are local proposals. No dialogue, buying, crafting or quests are implied.
