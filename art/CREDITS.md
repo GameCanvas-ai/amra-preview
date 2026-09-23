@@ -8,7 +8,7 @@ Models and animation libraries by **Quaternius**, imported from the **free Stand
 - [Universal Animation Library 2](https://quaternius.com/packs/universalanimationlibrary2.html): sword combo and nod.
 - [Medieval Village MegaKit](https://quaternius.com/packs/medievalvillagemegakit.html): walls, roofs, wagon and ivy.
 
-Amra adaptations: seven race silhouettes, elf ears, Dragonblood head/horns and matching hands, clothing assembly and tool props. Mining, fishing, waving and bowing are custom procedural study motions; they are not advertised as stock Quaternius clips. Dance is present in the downloaded Standard library.
+Amra adaptations: seven race silhouettes, Elf, Half-elf, Gnome and Half-orc ears sculpted into shared male/female source-body derivatives (`Amra_Elf_*`, reproducible with `scripts/sculpt-elf-ears.mjs`, retaining original topology and skin weights), Dragonblood head/horns and matching hands, clothing assembly and tool props. Mining, fishing, waving and bowing are custom procedural study motions; they are not advertised as stock Quaternius clips. Dance is present in the downloaded Standard library.
 
 Paving texture: OpenAI image generation, created for the earlier Amra browser prototype. No existing game art was used as source imagery. Interface, quay layout and lighting authored for this project.
 
